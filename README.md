@@ -1,7 +1,12 @@
 # Simulator for Numerical Spiking Neural P Systems (NSNP Systems)
 
 Generates Computation graphs of input NSNP systems that solve the Subset Sum problem(SSP).
-
+## Requirements
+```sh
+pip install numpy
+pip install anytree
+pip install graphviz
+```
 
 ## Test Data
 Assign Test data parameters in const.py
