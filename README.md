@@ -5,6 +5,7 @@ Generates Computation graphs of input NSNP systems that solve the Subset Sum pro
 
 ## Test Data
 Assign Test data parameters in const.py
+
 Generate test data by:
 ```sh
 python test_gen_pos.py 
