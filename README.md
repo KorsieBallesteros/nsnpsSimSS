@@ -18,12 +18,12 @@ python test_gen_neg.py
 for negative instances of SSP
 
 ## Simulation
-Results of the simulation will be in ./test_data/configuration graphs
+Results of the simulation will be in ./test_data/configuration graphs by running:
 
 ```sh
 python nsnpsTest.py 
 ```
-Statistics of memory use and runtime can be seen by:
+Statistics of memory use and runtime can be seen by running:
 ```sh
 python test_show_results.py 
 ```
